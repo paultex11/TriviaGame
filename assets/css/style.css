@@ -30,14 +30,14 @@ img {
 }
 
 body {
-  background-image: url("https://alamorange.com/wp-content/uploads/2016/09/product-img9.jpg");
+  background-image: url("https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201606/a_ov_AR15_160614.jpg");
   background-size: cover;
   font-family: 'Karla', sans-serif;
 }
 
 h1 {
   text-align: center;
-  color: hsl(0, 88%, 50%);
+  color: hsl(0, 96%, 50%);
   font-weight: bolder;
   padding: 20px;
   font-size: 45px;
@@ -46,7 +46,7 @@ h1 {
 p {
   margin: 10px;
   font-weight: bold;
-  color: red;
+  color: rgb(0, 255, 55);
   font-size: 20px;
 }
 
@@ -58,7 +58,7 @@ h2, h4 {
 .wrapper {
   margin: 10px auto;
   background-color: rgba(221, 209, 209, 0.7);
-  border: 2px solid #e90c0c;
+  border: 2px solid #fa0505;
   height: 500px;
   width: 60%;
   text-align: center;
